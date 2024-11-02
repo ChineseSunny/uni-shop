@@ -36,7 +36,7 @@
 
 <style lang="scss">
 	.my-search-container {
-		background-color: #888;
+		//background-color: #888;
 		height: 50px;
 		padding: 0 10px;
 		display: flex;
@@ -46,7 +46,7 @@
 	.my-search-box {
 		height: 36px;
 		background-color: #ffffff;
-		border-radius: 18px;
+		//border-radius: 18px;
 		width: 100%;
 		display: flex;
 		align-items: center;
