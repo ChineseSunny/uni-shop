@@ -27,7 +27,7 @@ var _default = {
   props: {
     bgcolor: {
       type: String,
-      default: '#C00000'
+      default: '#777'
     },
     radius: {
       type: Number,
@@ -40,7 +40,7 @@ var _default = {
   },
   methods: {
     searchBoxHandler: function searchBoxHandler() {
-      console.log('~~~~');
+      //console.log('~~~~')
       this.$emit('click');
     }
   }

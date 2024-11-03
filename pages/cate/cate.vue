@@ -79,7 +79,6 @@
 <style lang="scss">
 	.scroll-view-container {
 		display: flex;
-
 		.left-scroll-view {
 			width: 120px;
 
